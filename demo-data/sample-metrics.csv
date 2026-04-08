@@ -1,0 +1,5 @@
+metric,value,unit
+Connector health,81,demo
+Transport rule validation,82,demo
+Cutover readiness score,83,demo
+Header validation pass rate,84,demo

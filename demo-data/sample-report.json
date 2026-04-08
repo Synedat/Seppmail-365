@@ -1,0 +1,7 @@
+{
+  "tenant": "contoso.example",
+  "connectorsConfigured": 2,
+  "rulesValidated": 5,
+  "status": "ready-for-cutover",
+  "evidenceId": "m365-demo-001"
+}
